@@ -1,0 +1,4 @@
+Integrantes equipo 102:
+alfa: Martin Galvan
+beta: Nahuel Antunez
+gamma: Fernando Perez
