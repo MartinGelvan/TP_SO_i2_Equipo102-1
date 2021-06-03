@@ -7,3 +7,9 @@ beta:
 c-¿Puede GAMMA actualizar su FORK al estado del fork de ALFA? si
 d-¿Los datos que tenía en mi repositorio , editados por mi, se pierden si quiero actualizar
 el fork? no
+
+Alpha:
+e- realizar un listado, paso a paso ,de los comando necesarios para resolver este TP por
+orden de ejecución de los mismos junto con los apellidos y nombre de los alumnos
+
+Beta hace el git add, git commit -m y el git push, luego el Gamma y el Alpha hacen un git clone para clonar el repositorio,git pull para actualizar, git remote add upstream https://github.com/NahuelAntunez/TP_SO_i2_Equipo102.git para agregar la referencia al repositorio remoto original, git fetch upstream para traer todas las ramas de dicho repositorio remoto, git checkout main para irnos a la rama que queremos actualizar, en este caso es el main,git rebase upstream/main para reescribir nuestra rama main con los commits nuevos de la rama main del repositorio original,git push -f origin main y finalmente si queremos actualizar nuestro fork remoto usamos ese comando
