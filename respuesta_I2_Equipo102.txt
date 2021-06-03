@@ -2,3 +2,8 @@ Integrantes equipo 102:
 alfa: Martin Galvan
 beta: Nahuel Antunez
 gamma: Fernando Perez
+
+beta:
+c-¿Puede GAMMA actualizar su FORK al estado del fork de ALFA? si
+d-¿Los datos que tenía en mi repositorio , editados por mi, se pierden si quiero actualizar
+el fork? no
